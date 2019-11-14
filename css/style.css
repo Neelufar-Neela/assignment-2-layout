@@ -1,0 +1,182 @@
+body{
+	margin: 0;
+}
+
+.container-first{
+	width: 1200px;
+	height: 515px;
+	text-align: center;
+	padding: 10px 0 0 75px;
+
+}
+
+.container-first h4{
+
+	color: #0c0fbfb0;
+	padding: 60px 0 18px;
+	margin: 0;
+}
+
+.container-first h2{
+
+	color: #4a4848;
+	padding-bottom: 50px;
+	font-size: 30px;
+	margin: 0;
+}
+
+.box-a{
+
+	float: left;
+	width: 33.33%;
+	height: 350px;
+}
+
+.box-a img{
+
+	height: 90px;
+	width: 105px;
+	padding-bottom: 25px;
+}
+
+.box-a h3{
+
+	color: #4a4848;
+	padding-bottom: 15px;
+	margin: 0;
+}
+
+.box-a p{
+	
+	color: #4a4848;
+	padding: 0 90px 0;
+	margin: 0;
+}
+
+.container-second{
+
+	text-align: center;
+	background-color: #05053c;
+	width: 100%;
+	height: 225px;
+}
+
+.box-b{
+	float: left;
+	width: 33.33%;
+	height: 210px;
+}
+
+.box-b img{
+	height: 65px;
+	width: 70px;
+	padding-bottom: 25px;
+	margin-top: 0;
+}
+
+.box-b h5{
+
+	font-size: 18px;
+	color: white;
+	margin: 0;
+	padding-bottom: 15px;
+}
+
+.box-b p{
+
+	color: white;
+	padding: 0px 65px 0;
+	margin: 0;
+}
+
+.container-third{
+	width: 1200px;
+	height: 400px;
+	padding: 30px 0 0 75px;
+}
+
+.box-c{
+	width: 50%;
+	float: left;
+}
+
+.box-c h6{
+
+	color: #0c0fbfb0;
+	font-size: 15px;
+	margin: 0;
+	padding: 12px 120px;
+}
+
+.box-c h1{
+
+	color: #4a4848;
+	font-size: 35px;
+	margin: 0;
+	padding: 20px 120px;
+}
+
+.box-c p{
+
+	color: #4a4848;
+	margin: 0;
+	padding: 15px 120px;
+}
+
+.box-c button{
+
+	background-color: #0926c1;
+	color: white;
+	padding: 10px;
+	margin: 30px 120px;
+	border-radius: 10px;
+	border: 0;
+}
+.picture{
+	
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+}
+
+.picture img{
+	
+	max-width: 100%;
+	height: 165px;
+	width: 55%;
+	padding: 15px 0 0 20px;
+	box-shadow: 5px 5px 10px #8080806b;
+	transition-duration: 0.5s;
+}
+
+.picture img:hover{
+	box-shadow: -5px -5px 10px #8080806b;
+}
+
+
+
+.container-four{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	background-color:#bbdce652;
+}
+
+.box-d{
+	width: 25%;
+	float: left;
+	padding-top: 40px;
+}
+
+.box-d h4{
+	margin: 0;
+	padding-bottom: 18px;
+	color: #4a4848;
+	font-size: 20px;
+}
+
+.box-d p{
+	margin: 0;
+	color: #4a4848;
+	font-size: 18px;
+}
